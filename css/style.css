@@ -1,0 +1,123 @@
+footer {
+    background-color: #4A4A4A;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+.what-we-offer .container {
+    color: #FF8800;
+}
+
+#what-we-offer-title {
+    color: black;
+}
+
+.upcoming-events .container {
+    color: #FF8800;
+}
+
+#upcoming-events-title {
+    color: black;
+}
+
+.a-center-for-everyone {
+    color: white;
+    background-color: #6B8F59;
+
+}
+
+.ready-to-get-started .container {
+    color: white;
+    background-color: #6B8F59;
+}
+
+.about-hero {
+    background-color: #F2F2F2;
+}
+
+.about-hero .row {
+    min-height: 60vh;
+}
+
+.about-hero-img {
+    object-fit: cover;
+}
+
+.our-story {
+    background-color: #6B8F59;
+    color: white;
+}
+
+.our-story .row {
+    min-height: 60vh;
+}
+
+.get-in-touch-card-img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.get-in-touch-cards .card {
+    border: none;
+}
+
+.our-story-img {
+    object-fit: cover;
+}
+
+.contact-hero {
+    background-color: #F2F2F2;
+}
+
+.find-us {
+    color: white;
+    background-color: #4A4A4A;
+}
+
+.banner {
+    background-color: #4A4A4A;
+}
+
+.banner img {
+    display: block;
+    margin: 0 auto;
+    width: 140px;
+    padding: 2rem 0;
+}
+
+.banner .navbar {
+    background-color: #4FB6AC !important;
+}
+
+.banner .navbar .container-fluid {
+    position: relative;
+}
+
+.banner .navbar-nav {
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.banner .navbar form {
+    margin-left: auto;
+}
+
+.banner .nav-link {
+    color: white !important;
+}
+
+.btn {
+    color: white;
+    background-color: black;
+}
+
+.btn:hover {
+    color: white;
+    background-color: black;
+}
